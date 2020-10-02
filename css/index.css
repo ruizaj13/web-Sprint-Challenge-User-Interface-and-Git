@@ -71,41 +71,23 @@ a {
     text-decoration: none;
  }
 
-
-
-/* header {
-    padding: 5%;
-    
-    
-}
 .head {
+    margin-top: 2%;
+    margin-right: 27%;
+    margin-left: 26.5%;
     display: flex;
-    justify-content: center;
     align-items: center;
-    justify-content: space-evenly;
-} */
-
- /* .navbutt {
-    
-    display: flex;
+    justify-content: center;
     justify-content: space-between;
-    align-items: center;
-    
-   
-} */
-
-.head {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    justify-content: space-around;
     
 }
 
-.navbar button {
+.navbar button  {
     border-style: none;
     background: none;
     font-size: 20px;
+    margin-top: 5%;
+    
 }
 
 .headimg{
@@ -139,9 +121,6 @@ a {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
-
-
-
 
 .middle-content h2 {
     padding: 0 2%;
@@ -277,7 +256,7 @@ footer nav a {
     padding: 0 1%;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding-top: ;
+    padding-top: 3%;
     padding-bottom: 20px;
 
  }
